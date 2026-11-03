@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Kampüs Market",
+    "slug": "kampus-market",
+    "description": "Mobil Programlama - Çok Ekranlı Alışveriş Uygulaması (Expo Router Stack, SepetContext)",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "kampusmarket",
+    "userInterfaceStyle": "light",
+    "web": {
+      "output": "static"
+    },
+    "plugins": ["expo-router"]
+  }
+}
